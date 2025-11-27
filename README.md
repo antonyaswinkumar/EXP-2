@@ -55,8 +55,7 @@ Model graph:
 Calculation: 
 
 Open circuit characteristics
-
-  [ppp.pdf](https://github.com/user-attachments/files/23784243/ppp.pdf)
+[ppp.pdf](https://github.com/user-attachments/files/23784243/ppp.pdf)
 
 Load Characteristics:
  
