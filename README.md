@@ -51,8 +51,11 @@ Load test
 
 **Circuit diagram**
 
+OPEN CIRCUIT CHARACTERISTICS:
+
 ![opencirciut](https://github.com/user-attachments/assets/3f921f17-400d-4687-bb94-ff2fb6d921b8)
 
+LOAD CHARACTERISTICS:
 
 ![loadcircuit](https://github.com/user-attachments/assets/9f2c33c5-527c-4f72-8b29-2ef415d64c77)
 
